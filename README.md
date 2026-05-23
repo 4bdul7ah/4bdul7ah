@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4bdul7ah&label=Profile%20views&color=0e75b6&style=flat" alt="4bdul7ah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4bdul7ah" alt="4bdul7ah" /></a> </p>
-
-- 🔭 I’m currently working on **A Data Pipeline Project**
-
 - 👯 I’m looking to collaborate on **AI and Machine Learning Projects**
 
 - 📫 How to reach me **almetwallyabdullah@gmail.com**
